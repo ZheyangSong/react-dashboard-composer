@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "../",
+    "paths": {
+      "react-dashboard-composer": ["src"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "lib": [
+      "es6",
+      "es7",
+      "dom"
+    ]
+  }
+}

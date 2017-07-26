@@ -1,0 +1,5 @@
+node_modules/
+dist/
+compiled_example/
+
+.DS_Store
